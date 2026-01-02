@@ -176,8 +176,4 @@ Transaction types:
 
 ## License
 
-[Specify your license here]
-
-## Contributing
-
-[Specify contribution guidelines if applicable]
+GNU General Public License v3.0
