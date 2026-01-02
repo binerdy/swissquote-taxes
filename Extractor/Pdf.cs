@@ -94,8 +94,6 @@ public class Pdf
             var text = page.Text;
             var lines = text.Split('\n', StringSplitOptions.RemoveEmptyEntries);
 
-            // TODO: Parse the Swissquote-specific format
-            // This is a placeholder - you'll need to adapt this to your specific PDF format
             ParsePage(page, statement);
         }
 
