@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Swissquote.Analyzer.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "--analyze --input ./kontoauszug_2024.pdf"
+    }
+  }
+}
